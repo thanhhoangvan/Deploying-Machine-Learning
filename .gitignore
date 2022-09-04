@@ -1,3 +1,4 @@
 SampleModel/data/
 venv
 *.h5
+*.pyc
