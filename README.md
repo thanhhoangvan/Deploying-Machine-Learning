@@ -5,5 +5,16 @@
 - [x] Skearn Model - Iris classification
 - [x] TensorFlow Model - Face gender Classification
 - [ ] Pytorch Model
+- [ ] Caffe Model
 
 # Deploy Techniques
+- [ ] TF-Serving
+- [ ] Torch-Serve
+- [ ] Google Cloud Platform(GCP)
+- [ ] FastAPI
+- [ ] Amazone Web Services(AWS)
+- [ ] CUDA
+- [ ] TensorRT
+- [ ] Android app - TF Lite
+- [ ] IOS app
+- [ ] OpenVINO
