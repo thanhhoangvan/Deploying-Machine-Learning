@@ -4,6 +4,6 @@
 # Sample Model
 - [x] Skearn Model - Iris classification
 - [x] TensorFlow Model - Face gender Classification
-- [] Pytorch Mdoel
+- [ ] Pytorch Model
 
 # Deploy Techniques
