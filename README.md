@@ -8,6 +8,7 @@
 - [x] TensorFlow Model - Face gender Classification
 - [ ] Pytorch Model
 - [ ] Caffe Model
+- [ ] ML.NET
 
 # Deploy Techniques
 - [ ] FastAPI
